@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ガールフレンド(仮) [バイト]
 // @namespace    https://twitter.com/stylish_munezo
-// @version      0.3
+// @version      0.4
 // @description  バイト自動継続
 // @author       Munezo
 // @match        *://vcard.ameba.jp/mypage
@@ -9,6 +9,8 @@
 // @match        *://vcard.ameba.jp/mypage/cupid-login-animation*
 // @match        *://vcard.ameba.jp/mypage/date-bonus*
 // @match        *://vcard.ameba.jp/mypage/continuation-login-reward-animation*
+// @match        *://vcard.ameba.jp/grade/grade-reward-animation*
+// @match        *://vcard.ameba.jp/grade/grade-result*
 // @match        *://vcard.ameba.jp/job*
 // @match        *://vcard.ameba.jp/limited-login*
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js
